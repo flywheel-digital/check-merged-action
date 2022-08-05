@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6c7f924-38c3-45e4-b452-ff5355a5ad63" name="Changes" comment="attempt at adding failed test to history check" />
+    <list default="true" id="d6c7f924-38c3-45e4-b452-ff5355a5ad63" name="Changes" comment="attempt at adding failed test to history check">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.ts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -130,7 +134,7 @@
       <workItem from="1659383188394" duration="4052000" />
       <workItem from="1659387530223" duration="3897000" />
       <workItem from="1659633498897" duration="404000" />
-      <workItem from="1659633908850" duration="944000" />
+      <workItem from="1659633908850" duration="3480000" />
     </task>
     <task id="LOCAL-00001" summary="attempt at adding failed test to history check">
       <created>1659634648966</created>
