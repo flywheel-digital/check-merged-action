@@ -14,7 +14,7 @@ inputs:
     required: true
   title:
     description: "Title"
-    default: "# :anger: Not merged!"
+    default: "# :anger: Check failed, branch must be merged into qa before merging into main. Do not approve or merge this request."
     required: false
 runs:
   using: "node12"
